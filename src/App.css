@@ -37,7 +37,7 @@ button{cursor: pointer;}
 
 
 .wrap1{background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);}
-.wrap1 ul{display: flex; flex-direction: row; justify-content: end;}
+.wrap1 ul{display: flex; flex-direction: row; justify-content: end; padding: 0;}
 .wrap1 li { color:darkred; font-family: head; font-size: 20px;}
 .wrap1 .e { padding:5% 2%; color:darkred; font-family: head; font-size: 20px;}
 .wrap1 h6{padding: 5% 0; color:darkred; font-family: head; font-size: 30px;}
@@ -78,7 +78,7 @@ button{cursor: pointer;}
 .wrap1 h6{padding: 3% 0; color:darkred; font-family: head; font-size: 25px; margin-top: 22px;}
 .wrap1 .nav-mobile {display: block; background-color: transparent;}
 .wrap1 nav {width: 100%; padding: 40px 0 15px;}
-.wrap1 nav ul {display: none;}
+.wrap1 nav ul {display: none; padding: 0;}
 .wrap1 nav ul li {padding: 0 0 20px 0; text-align: center;}
 .wrap1 #nav-toggle {position: absolute; left: 18px; top: 40px; cursor: pointer;padding: 10px 35px 16px 0px;}
 .wrap1 #nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {cursor: pointer; border-radius: 1px; height: 5px; width: 35px; background: darkred; position: absolute; display: block; content: ''; transition: all 300ms ease-in-out; } 
